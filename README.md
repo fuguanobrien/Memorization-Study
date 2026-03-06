@@ -1,5 +1,8 @@
 # The Role of Touch in Memorization: Digital vs. Paper Mediums
 
+<img width="2304" height="1728" alt="Copy of RD Final Poster" src="https://github.com/user-attachments/assets/7e2ae204-b38b-43bd-beb7-dc214449ee43" />
+
+
 This project investigates whether **digital or paper mediums influence short-term memorization performance**. The study explores how the increasing reliance on digital tools in education—especially after the COVID-19 pandemic—affects learning outcomes and memory recall. 
 
 ### Research Question
